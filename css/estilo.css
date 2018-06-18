@@ -1,0 +1,59 @@
+h1{
+	border-top: 1px solid blue;
+	border-color: #CCC;
+	border-left: 10px solid black;
+	padding-left: 20px;
+	border-bottom: 1px solid black;
+	font-family: Arial;
+}
+a:active{
+	color: blue;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	background-color: yellow;
+}
+div{
+	margin: 50px;
+	padding: 10px;
+
+}
+#bord1{ 
+	border: 50px ;
+	border-width: 5px;
+	border-color: red black yellow green;
+	border-style: solid;
+
+
+
+}
+#bord2{
+	border-width: 5px;
+	border-style: ridge;
+	
+}#bord3{
+	border-width: 5px;
+	border-style: dotted;
+	
+}#bord4{
+	border-width: 5px;
+	border-style: dashed;
+	
+}
+#bord5{
+	border-width: 5px;
+	border-style: double;
+	
+}
+#bord6{
+	border-width: 5px;
+	border-style: inset;
+	
+}
+#bord7{
+	border-width: 5px;
+	border-style: outset;
+	
+}
